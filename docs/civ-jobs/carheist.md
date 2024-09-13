@@ -1,6 +1,6 @@
 ---
 title: Car Heist
-parent: Civ Activities
+parent: Crime
 nav_order: 3
 ---
 
