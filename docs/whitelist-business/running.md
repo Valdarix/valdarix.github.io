@@ -1,7 +1,7 @@
 ---
-title: Running Your Business
+title: Mechanics
 parent: Whitelist Businesses
 nav_order: 3
 ---
 
-##Running Your Business
+## Mech Shops
