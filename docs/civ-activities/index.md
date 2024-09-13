@@ -1,5 +1,5 @@
 ---
-title: Civilian Activities
+title: Civ Activities
 nav_order: 5
 ---
 
