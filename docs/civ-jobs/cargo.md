@@ -1,6 +1,6 @@
 ---
 title: Cargo Delivery
-parent: Civ Activities
+parent: Civ Jobs
 nav_order: 2
 ---
 
