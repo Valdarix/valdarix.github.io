@@ -1,10 +1,10 @@
+# Introduction
+
 ---
 title: Introduction
 description: On this page you will find guides and documentation on how to do things in the city. 
 nav_order: 2
 ---
-
-# Introduction
 
 **Welcome to Just RP!** Just RP! is a whitelisted roleplay server designed to provide a wide range of features for you to explore and experience. Our server uses a stable framework called **QBox**, ensuring that you have a reliable and immersive environment to play in.
 
