@@ -1,3 +1,18 @@
 remote_theme: hydecorp/hydejack@v9.2.0
 title: Just RP!
 description: Bookmark this to for quick access to the Guides for Just RP!
+
+hydejack:
+  dark_mode:
+    dynamic: true
+    icon:    true
+    always:  false
+menu:
+  - title: Businesses
+    url:   /blog/
+  - title: Crine
+    url:   /projects/
+  - title: Resume
+    url:   /resume/
+  - title: About
+    url:   /about/b
