@@ -12,3 +12,8 @@ nav_order: 2
 
 ## Your Inventory
 
+## Your Vitals
+
+## Shops
+
+## Clothing Stores
