@@ -4,4 +4,11 @@ parent: Introduction
 nav_order: 2
 ---
 
-## Starting Out
+# Starting Out
+
+## Making Your Character
+
+## Your Apartment
+
+## Your Inventory
+
