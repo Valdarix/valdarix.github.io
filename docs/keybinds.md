@@ -15,7 +15,7 @@ nav_order: 5
 
 You can use these commands in your chatbox.
 
-| **Keybind** | **Description**                                     |
+| **Command** | **Description**                                     |
 |:------------|:----------------------------------------------------|
 | /aihelp     | Call an AI Doctor for help when no EMS is online    |
 | Test        | Test                                                |
