@@ -15,8 +15,8 @@ nav_order: 5
 
 # Slash Commands
 You can use theses commands in your chatbox. 
-|            |                     |          |
-| ---------- | ------------------- | -------- |  
+|            |                     |
+| ---------- | ------------------- | 
 | **Keybind**   | **Description**        | 
 | /aihelp          | Call an AI Doctor for help when no EMS is online                   | 
 | Test             | Test                   |
