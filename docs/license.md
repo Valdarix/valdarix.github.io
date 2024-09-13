@@ -4,6 +4,14 @@ parent: Introduction
 nav_order: 3
 ---
 
-## Licenses
+# Licenses
 
 There are several types of licenses available in the city. 
+
+## Driver's
+
+## Hunting
+
+## Fishing
+
+## Weapon
