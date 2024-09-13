@@ -1,4 +1,7 @@
-
+---
+title: Docs Home
+nav_order: 0
+---
 ## Just RP Mission and Guidelines
 
 Our city is designed as a haven for players who prioritize role play and storytelling. We are dedicated to creating a vibrant, immersive environment where creativity and character-driven narratives can flourish.
