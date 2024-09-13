@@ -9,10 +9,12 @@ hydejack:
     always:  false
 menu:
   - title: Businesses
-    url:   /blog/
-  - title: Crine
-    url:   /projects/
-  - title: Resume
-    url:   /resume/
-  - title: About
-    url:   /about/b
+    url:   /business/
+  - title: Civ Jobs
+    url:   /civjobs/
+  - title: Crime
+    url:   /Crime/
+  - title: Emergency Services
+    url:   /services/
+  - title: "@JustRP.Cloud"
+    url:   https://justrp.cloud/
