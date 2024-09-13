@@ -1,6 +1,6 @@
 ---
 title: Bus Driver
-parent: Civ Activities
+parent: Civ Jobs
 nav_order: 1
 ---
 
