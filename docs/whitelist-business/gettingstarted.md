@@ -17,18 +17,18 @@ In addition to restaurants and mechanics, some businesses provide unique service
 
 ## Current Businesses
 
-| **NAME**       | **TYPE**       | **OWNED** |
+| **NAME**       | **TYPE**       | **AVAILABLE** |
 |:---------------|:---------------|:----------|
-| Cafe Day       | Restaurant     | Yes       |
-| Tequil-la-la   | Bar            | Yes       |
-| White Widow    | Other          | Yes       |
-| Rex's Diner    | Restaurant     | No        |
-| Hookies Diner  | Restaurant     | No        |
-| Taco Farmer    | Restaurant     | No        |
-| Comedy Club    | Other          | No        |
-| Auto Exotic    | Mechanic       | No        |
-| Nagasaki       | Mechanic       | No        |
-| Moseley's      | Mechanic       | No        |
+| Cafe Day       | Restaurant     | No        |
+| Tequil-la-la   | Bar            | No        |
+| White Widow    | Other          | No        |
+| Rex's Diner    | Restaurant     | Yes       |
+| Hookies Diner  | Restaurant     | Yes       |
+| Taco Farmer    | Restaurant     | Yes       |
+| Comedy Club    | Other          | Yes       |
+| Auto Exotic    | Mechanic       | Yes       |
+| Nagasaki       | Mechanic       | Yes       |
+| Moseley's      | Mechanic       | Yes       |
 
 *Note: List may be incomplete.*
 
