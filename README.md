@@ -1,2 +1,2 @@
-# valdarix.github.io
+# Just RP!
 Documentation and guides for Just RP!
