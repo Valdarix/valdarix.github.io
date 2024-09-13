@@ -2,19 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 title: Just RP!
 description: Bookmark this to for quick access to the Guides for Just RP!
 
-hydejack:
-  dark_mode:
-    dynamic: true
-    icon:    true
-    always:  false
-menu:
-  - title: Businesses
-    url:   /business/
-  - title: Civ Jobs
-    url:   /civjobs/
-  - title: Crime
-    url:   /Crime/
-  - title: Emergency Services
-    url:   /services/
-  - title: "@JustRP.Cloud"
-    url:   https://justrp.cloud/
+logo: "/assets/images/logo.png"
