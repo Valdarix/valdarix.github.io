@@ -1,7 +1,7 @@
 ---
 title: Introduction
-description: A brief description of the page
+description: On this page you will find guides and documentation on how to do things in the city. 
 nav_order: 1
 ---
 
-Whitelist Businesses
+Documentation and Guides Overview
