@@ -1,12 +1,11 @@
 ---
-title: Images (FiveManage)
+title: Retaurant Images
 parent: Restaurants
 nav_order: 2
 ---
 
 # Explanation
 
-# Options
-
 # Creating Images for Items and Menu
 
+# Image Storage Options
