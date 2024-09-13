@@ -1,6 +1,6 @@
 ---
 title: City Worker
-parent: Civ Activities
+parent: Civ Jobs
 nav_order: 3
 ---
 
