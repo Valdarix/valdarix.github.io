@@ -11,4 +11,4 @@ Gangs are a vital part of our city's role-play environment, and certain exceptio
 
 To ensure compliance with TOS, our city features in-city gangs, each with their own lore, designated territories, and colors. This approach helps maintain a structured and immersive role-play experience while adhering to the necessary guidelines.
 
-For more detailed information, please refer to the **Gang Information** channel in our Discord.
+For more detailed information about each gange, please refer to the individual **Gang Page** in this documentation.
