@@ -10,12 +10,4 @@ nav_order: 1
 
 # Customizing Your Ingredients
 
-# Boss Menu
-
-# Recipes
-
-# Menu Image
-
-# Offline Shop
-
 # Images
