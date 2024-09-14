@@ -3,4 +3,4 @@ title: EMS
 nav_order: 8
 ---
 
-EMS
+# Please select a category for more information on being EMS in Just RP!
