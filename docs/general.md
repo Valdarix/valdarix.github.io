@@ -6,6 +6,7 @@ nav_order: 1
 
 # General
 
+
 **Welcome to Just RP!** Just RP! is a whitelisted roleplay server designed to provide a wide range of features for you to explore and experience. Our server uses a stable framework called **QBox**, ensuring that you have a reliable and immersive environment to play in.
 
 Like many roleplay servers, Just RP! incorporates **scripts, MLOs**, and **add-on cars** that enhance your roleplay, no matter the path you choose. Whether you focus on a life of crime, provide essential services to the city, work at a white-listed business, or just hang out as a civilian doing civilian jobs and activities, our city offers the perfect backdrop for your unique story.
