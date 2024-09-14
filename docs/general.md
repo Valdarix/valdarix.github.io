@@ -4,7 +4,7 @@ parent: Introduction
 nav_order: 1
 ---
 
-## General
+# General
 
 **Welcome to Just RP!** Just RP! is a whitelisted roleplay server designed to provide a wide range of features for you to explore and experience. Our server uses a stable framework called **QBox**, ensuring that you have a reliable and immersive environment to play in.
 
