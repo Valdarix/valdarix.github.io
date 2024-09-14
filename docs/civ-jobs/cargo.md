@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Cargo Delivery
 
-City Hall Job Required:
-Pay:
-Off Duty Pay:
-Pay Per Completion:
+City Hall Job Required:  
+Pay:  
+Off Duty Pay:  
+Pay Per Completion:  
