@@ -1,6 +1,6 @@
 ---
 title: Docs Home
-nav_order: 1
+nav_order: 10
 ---
 # Welcome to Just RP!
 
