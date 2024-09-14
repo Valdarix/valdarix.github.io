@@ -17,7 +17,7 @@ nav_order: 5
 You can use these commands in your chatbox.
 
 | **Command** | **Description**                                     | **Job Locked** |
-|:------------|:----------------------------------------------------||:--------------|
+|:------------|:----------------------------------------------------|:---------------|
 | /aihelp     | Call an AI Doctor for help when no EMS is online    | LEO/EMS        |
 |             |                                                     | LEO/EMS        |
 
