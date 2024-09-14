@@ -7,8 +7,11 @@ nav_order: 1
 ## Bus Driver
 
 **City Hall Job Required:**  Bus 
+
 **Pay:** 150 every 20 minutes.  
+
 **Off Duty Pay:**  NO 
+
 **Pay Per Completion:**  25 to 35 per passenger (40% chance of 15-25 bonus per passenger)  
 
 **Details:**     
