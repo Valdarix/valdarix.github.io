@@ -22,6 +22,10 @@ Once you leave your apartment, you're free to **explore the city**! You can re-e
 
 Your **inventory** (or "pockets") is one of the most important tools you have in the city. You can access it by pressing **Tab**. Many items in your inventory can be used by right-clicking them and selecting **Use**. The inventory system extends beyond your character—it’s also used for things like car trunks, glove boxes, and private stashes.
 
+All players will start with $5000 in cash and $15000 in the bank. 
+
+> Note: Cash is an item in Just RP! It is important to keep only the cash you need in your pockets or risk losing it in a robbery. 
+
 ## Tracking Your Vitals
 
 At the bottom left of your screen, you’ll notice several icons representing your **vitals**. Keeping an eye on these is crucial to your survival. Each vital has a different icon and can be managed in specific ways:
