@@ -6,6 +6,7 @@ nav_order: 3
 
 # Licenses
 
+
 There are several types of licenses available in the city. Having the appropriate licenses will help keep you on the right side of the law.
 
 ## Driver's License
