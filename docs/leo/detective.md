@@ -1,6 +1,6 @@
 ---
 title: Detective
-parent: LEO
+parent: LEO Overview
 nav_order: 1
 ---
 
