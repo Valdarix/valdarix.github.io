@@ -14,7 +14,7 @@ In Just RP, all EMS staff operate under the same job rank and structure. However
 - **Route 68 Medical**
 - **Paleto Bay Medical**
 
-Each hospital has its own unique ambulance fleet, giving EMS personnel the flexibility to respond from any location. Whether you're stationed in the city or in more rural areas, you’ll have the tools you need to provide essential medical services. 
+Each hospital has its own unique ambulance, giving EMS personnel the flexibility to respond from any location. Whether you're stationed in the city or in more rural areas, you’ll have the tools you need to provide essential medical services. 
 
 Additionally, our **Detectives** are trained to perform emergency medical services when needed, ensuring there is always a quick response to medical calls. When no EMS or detectives are available, players can rely on our **AI Medic**, who can be summoned to assist in emergencies.
 
