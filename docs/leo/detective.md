@@ -1,6 +1,6 @@
 ---
 title: Detective
-parent: LEO Overview
+parent: LSPD
 nav_order: 1
 ---
 
