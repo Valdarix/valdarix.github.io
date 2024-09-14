@@ -8,8 +8,9 @@ nav_order: 5
 
 | **Keybind** | **Description**        | **Can be changed** |
 |:------------|:-----------------------|:-------------------|
-| Test        | Test                   | yes                |
-| Test        | Test                   | no                 |
+| Q           | Sirens                 | -                  |
+| E           | Sirens                 | -                  |
+| E           | Sirens                 | -                  |
 
 # Slash Commands
 
@@ -18,5 +19,5 @@ You can use these commands in your chatbox.
 | **Command** | **Description**                                     |
 |:------------|:----------------------------------------------------|
 | /aihelp     | Call an AI Doctor for help when no EMS is online    |
-| Test        | Test                                                |
+|             |                                                     |
 
