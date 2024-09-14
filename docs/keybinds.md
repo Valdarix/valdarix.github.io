@@ -6,11 +6,11 @@ nav_order: 5
 
 # Default Keybinds
 
-| **Keybind** | **Description**        | **Can be changed** |
-|:------------|:-----------------------|:-------------------|
-| Q           | Sirens                 | -                  |
-| E           | Sirens                 | -                  |
-| E           | Sirens                 | -                  |
+| **Keybind** | **Description**        | **Can be changed** | **Job Locked** |
+|:------------|:-----------------------|:-------------------|:---------------| 
+| Q           | Sirens                 | -                  | LEO/EMS        |
+| E           | Sirens                 | -                  | LEO/EMS        |
+| E           | Sirens                 | -                  | LEO/EMS        |
 
 # Slash Commands
 
