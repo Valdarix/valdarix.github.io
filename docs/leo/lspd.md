@@ -1,6 +1,6 @@
 ---
 title: LSPD
-parent: LEO
+parent: LEO Overview
 nav_order: 2
 ---
 
