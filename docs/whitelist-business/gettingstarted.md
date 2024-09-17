@@ -28,7 +28,7 @@ In addition to restaurants and mechanics, some businesses provide unique service
 | Comedy Club    | Other          | Yes       |
 | Auto Exotic    | Mechanic       | Yes       |
 | Nagasaki       | Mechanic       | Yes       |
-| Moseley's      | Mechanic       | Yes       |
+| Yellow Jack    | Bar            | Yes       |
 
 *Note: List may be incomplete.*
 
