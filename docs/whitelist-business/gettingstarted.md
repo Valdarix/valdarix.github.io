@@ -29,6 +29,9 @@ In addition to restaurants and mechanics, some businesses provide unique service
 | Auto Exotic    | Mechanic       | Yes       |
 | Nagasaki       | Mechanic       | Yes       |
 | Yellow Jack    | Bar            | Yes       |
+| Vanilla Unicorn| Other          | Yes       |
+| Burgershot     | Restaurant     | Yes       |
+| Italian Pub    | Bar            | Yes       |
 
 *Note: List may be incomplete.*
 
