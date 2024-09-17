@@ -27,7 +27,7 @@ To gather the items needed for drug processing, you'll use the **third-eye featu
 
 ### Drug Processing
 
-Once you’ve found the processing location and have the key, you can begin processing the drug. You won’t need to memorize any recipes—the processing location will tell you the maximum amount of the drug you can produce at that time.
+Once you’ve found the processing location and have the key, you can begin processing the drug. You won’t need to memorize any recipes! The processing location will tell you the maximum amount of the drug you can produce at that time. **The only ingredient we will tell you that you need are Empty Baggies that you can purchase from any hardware store.**
 
 > **Note:** Some drugs may share ingredients, so keep an eye on your inventory to track what’s being used.
 
