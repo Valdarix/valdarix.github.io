@@ -8,7 +8,7 @@ nav_order: 1
  
 # Setup a FiveManage Account
 
-Navigate to Fivemanage.com and create an account using your discord to login. This website allows for lots of different features, but for your business, you only care about hosting images. 
+Navigate to [FiveManage](Fivemanage.com) and create an account using your discord to login. This website allows for lots of different features, but for your business, you only care about hosting images. 
 
 # Image Upload Process
 
