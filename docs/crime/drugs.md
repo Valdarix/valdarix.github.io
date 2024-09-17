@@ -4,29 +4,34 @@ parent: Crime
 nav_order: 3
 ---
 
-## Drugs
+# Drugs
 
-We currently have 4 types of drugs in the city. Our drug script is a custom written drug script that is ever evoloving so it is important to check beack here for updates. 
+### Drug Types
 
-. Weed
-. Coke
-. Crack
-. Meth
+We currently have **four types of drugs** available in the city. Our drug system is custom-built and constantly evolving, so it's important to check back here for updates.
 
-More may be added over time. 
+- **Weed**
+- **Coke**
+- **Crack**
+- **Meth**
 
-Drug location hints and keys can be found while doing other things in the city. 
+More drugs may be added over time as the script develops.
+
+### Finding Drug Locations
+
+Hints and keys to drug locations can be found while participating in other activities around the city. Keep your eyes open for clues.
 
 ### Drug Gathering
 
-Gathering the items needed to process drugs uses the 3rd-eye feature. There are several different items needed depending on which drug you are processing. 
+To gather the items needed for drug processing, you'll use the **third-eye feature**. Each drug requires different items for processing, so make sure you're collecting the correct ingredients depending on the drug you're working with.
 
 ### Drug Processing
 
-Once you have located the processing location and have the key for that location you can process the drug. You do not need to know the recipe, the processing location will tell you the max amount you can make at that time. 
+Once you’ve found the processing location and have the key, you can begin processing the drug. You won’t need to memorize any recipes—the processing location will tell you the maximum amount of the drug you can produce at that time.
 
-> NOTE: some drugs may require the use of the same ingredient so pay attention to your inventory to see what is used. 
+> **Note:** Some drugs may share ingredients, so keep an eye on your inventory to track what’s being used.
 
 ### Drug Selling
 
-Currenlty the only way to sell your drugs is civilian selling using the third eye. We will be adding more ways in the future. 
+Currently, the only way to sell drugs is through **civilian selling** using the third-eye feature. However, more selling methods will be added in the future as we expand the system.
+
