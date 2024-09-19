@@ -22,5 +22,7 @@ Finally, you can use your F6 menu to force the player to walk for a given period
 
 
 ### Slash Commands
+
 **/checkinj** - check player injuries
+
 **/aihelp** - call for the AI doctor
