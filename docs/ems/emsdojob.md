@@ -1,4 +1,9 @@
-https://www.youtube.com/watch?v=w9CYiWH7smA
+---
+title: EMS Job
+parent: EMS
+nav_order: 2
+---
+
 
 [![Showcase Video](https://img.youtube.com/vi/w9CYiWH7smA/0.jpg)](https://www.youtube.com/watch?v=w9CYiWH7smA)
 
