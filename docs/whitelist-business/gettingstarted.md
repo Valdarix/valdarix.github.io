@@ -26,7 +26,7 @@ In addition to restaurants and mechanics, some businesses provide unique service
 | Hookies Diner  | Restaurant     | Yes       |
 | Taco Farmer    | Restaurant     | Yes       |
 | Comedy Club    | Other          | Yes       |
-| Auto Exotic    | Mechanic       | Yes       |
+| Auto Exotic    | Mechanic       | No        |
 | Nagasaki       | Mechanic       | Yes       |
 | Yellow Jack    | Bar            | Yes       |
 | Vanilla Unicorn| Other          | No        |
