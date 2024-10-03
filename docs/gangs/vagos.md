@@ -5,4 +5,4 @@ nav_order: 7
 ---
 
 ## Vagos
-### (Inactive)
+### (Reserved)
