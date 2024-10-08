@@ -14,3 +14,6 @@ In Just RP, players have the opportunity to serve in one of three distinct law e
 - **Los Santos Police Department (LSPD)** – Active
 - **Blaine County Sheriff's Office (BCSO)** – Coming Soon
 - **San Andreas Highway Patrol (SAHP)** – Coming Soon
+
+
+[Department SOPs](https://docs.google.com/spreadsheets/d/1OHG0F0MQS3V-qxwEIku5KPVNuoo8JXM7bI7l8CWNq8w/edit?usp=sharing)
