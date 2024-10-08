@@ -14,7 +14,7 @@ You can locate our rules and guidelines on our official website: [JustRP.Cloud R
 
 ## Discord
 
-https://discord.gg/JWJaBcpP8R 
+[Join our Discord Today!](https://discord.gg/JWJaBcpP8R) 
 
 ### TOS Compliance
 
