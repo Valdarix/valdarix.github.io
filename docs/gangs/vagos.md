@@ -7,4 +7,4 @@ nav_order: 7
 ## Vagos
 ### (Reserved)
 
-![Lost MC Logo](https://e1.pngegg.com/pngimages/764/450/png-clipart-lost-mc-logo-the-lost-mc-logo-illustration.png)
+![Vagos Logo](https://th.bing.com/th/id/OIP.Hz97x0F92IjhS_TWrRf4fgAAAA?rs=1&pid=ImgDetMain)
