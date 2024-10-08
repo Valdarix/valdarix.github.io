@@ -1,9 +1,7 @@
 ---
-title: Pickpocketing
-parent: Crime
-nav_order: 6
+title: Racing Tablet
+parent: Civ Activities
+nav_order: 5
 ---
 
-## Pickpocketing
-
-Pickpocketing is a simple crime you can do with low police chance. However if you alert the wrong target they may attack you. You can move while pickpocketing, in fact sticking to your target is an important skill. 
+## Racing Tablet
